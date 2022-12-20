@@ -1,5 +1,5 @@
 # B.Tech-Computer-Science-2019-23
-## <p style="color:yellow">All my submissions, assignments and project reports right from 1st Semester upto my last day in college.</p>
+<p style="color:yellow">All my submissions, assignments and project reports right from 1st Semester upto my last day in college.</p>
 
 ## Contents <br>
 
